@@ -1,0 +1,7 @@
+Shevchenko 90
+Kovalenko 70
+Petrenko 80
+Shevchenko 60
+Petlura 40
+
+Avg mark: 68, D

@@ -1,0 +1,4 @@
+Shevchenko 50.5
+Kovalenko 70
+Petrenko 51
+57.1667
